@@ -1,9 +1,10 @@
 
 # Fonts/typefaces
 ___
-The difference between font and typeface is well described on [http://www.typogui.de](http://www.typogui.de/#fontsvstypefaces).
+The difference between font and typeface is well described on **[typogui.de](http://www.typogui.de/#fontsvstypefaces)**.
 
-Also this website is great at all where you can learn really cool things about Typography. I wanted to also order a book there but unfortunately it's currently unavailable.
+**Also this website is great at all where you can learn really cool things about Typography.** 
+I wanted to also order a book there but unfortunately it's currently unavailable.
 
 So I was recently making my own website and I came up with a problem: **_what font should I use?_**
 So I started doing some research, try-testing and found some good typefaces.
@@ -12,12 +13,13 @@ I decided to share this list at it might be a time saver for someone else having
 
 ##Types
 ___
-* serif -> Fonts for printing.
-* sans-serif -> Fonts for web and screen reading.
-* monospace -> Fonts good for coding.
-* script -> Fonts for accents (calligraphic, handwriting).
+* **serif** -> Fonts for printing.
+* **sans-serif** -> Fonts for web and screen reading.
+* **monospace** -> Fonts good for coding.
+* **script** -> Fonts for accents (calligraphic, handwriting).
 
-It doesn't mean that you cannot use sans-serif for printing or coding. It's all up to you. Choose what better suits you.
+It doesn't mean that you cannot use sans-serif for printing or coding.
+**It's all up to you. Choose what better suits you.**
 
 ## Serif
 ___
