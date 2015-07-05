@@ -19,6 +19,7 @@ ___
 * **script** -> Fonts for accents (calligraphic, handwriting).
 
 It doesn't mean that you cannot use sans-serif for printing or coding.
+
 **It's all up to you. Choose what better suits you.**
 
 ## Serif
