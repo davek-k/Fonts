@@ -3,7 +3,7 @@
 ___
 The difference between font and typeface is well described on **[typogui.de](http://www.typogui.de/#fontsvstypefaces)**.
 
-**Also this website is great at all where you can learn really cool things about Typography.** 
+**Also this website is great at all where you can learn really cool things about Typography.**
 I wanted to also order a book there but unfortunately it's currently unavailable.
 
 So I was recently making my own website and I came up with a problem: **_what font should I use?_**
